@@ -1,4 +1,3 @@
-# phishing
 # 🛡️ Phishing Website Detection
 
 A web application that detects whether a website URL is legitimate or phishing. The model analyzes various URL-based features and predicts the likelihood of a phishing attack, helping users identify malicious websites before visiting them.
